@@ -1,0 +1,50 @@
+body {
+  box-sizing: border-box;
+}
+#main {
+  width: 100%;
+  background-color: #eee;
+  margin: 2% 1%;
+  text-align: center;
+  border-radius: 10px;
+  font-family: "Roboto Slab", serif;
+}
+#img-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 20px;
+  background-color: white;
+  padding: 10px;
+  max-width: 100%;
+  height: auto;
+}
+#img-caption {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: larger;
+}
+h1 {
+  padding-top: 50px;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+#tribute-info {
+  font-size: x-large;
+  font-weight: 600;
+}
+
+#lastsection {
+  text-align: left;
+  max-width: 700px;
+  line-height: 30px;
+  font-size: large;
+  margin-left: 300px;
+}
+
+footer {
+  font-size: x-large;
+  font-weight: 500;
+  padding: 10px;
+}
