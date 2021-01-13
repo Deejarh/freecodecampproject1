@@ -42,6 +42,9 @@ h1 {
   font-size: large;
   margin-left: 300px;
 }
+@media screen and (min-width:480px){
+  #lastsection{margin: 0px auto;}
+}
 
 footer {
   font-size: x-large;
